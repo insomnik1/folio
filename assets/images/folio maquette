@@ -1,0 +1,1538 @@
+/* Desktop - 1 */
+
+position: relative;
+width: 1440px;
+height: 5479px;
+overflow-y: scroll;
+
+background: linear-gradient(180deg, #101010 0%, #373636 50%, #101010 100%);
+
+
+/* image 4 */
+
+position: absolute;
+width: 1445.89px;
+height: 903.68px;
+left: 0px;
+top: 506.57px;
+
+background: url(image.png);
+border-radius: 15px;
+
+
+/* HADJADJ MARC alias Insomnik */
+
+position: absolute;
+width: 396.56px;
+height: 41.27px;
+left: 88.32px;
+top: 20.32px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Home */
+
+position: absolute;
+width: 103.77px;
+height: 57.12px;
+left: 906.1px;
+top: 20.32px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+
+
+/* Experience */
+
+position: absolute;
+width: 143.18px;
+height: 57.12px;
+left: 1088.12px;
+top: 20.32px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+
+
+/* Contact */
+
+position: absolute;
+width: 113.44px;
+height: 57.12px;
+left: 1309.56px;
+top: 20.32px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+
+
+/* Welcome to my Universe */
+
+position: absolute;
+width: 634.21px;
+height: 71.85px;
+left: 395.68px;
+top: 1265.94px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 59px;
+
+color: #FFFFFF;
+
+
+
+/* Frame 5 */
+
+position: absolute;
+width: 1440px;
+height: 431px;
+left: 0px;
+top: 77px;
+
+background: rgba(20, 20, 20, 0.5);
+border-radius: 25px;
+
+
+/* Hello, i’m Insomnik. I'm a future web developer and i‘m working on linux system. I'd like to show you the extent of my abilities with a view to a future collaboration between us. Let yourself be guided through this folio to discover my talents. Enjoy !!! */
+
+position: absolute;
+width: 1315.57px;
+height: 394.37px;
+left: 55px;
+top: 52px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* moi future 2 */
+
+position: absolute;
+width: 310.68px;
+height: 466.01px;
+left: 574.72px;
+top: 1988.48px;
+
+background: url(moi future.png);
+
+
+/* h1 */
+
+position: absolute;
+width: 221px;
+height: 86px;
+left: 609.5px;
+top: 1529.32px;
+
+
+
+/* h1 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 59px;
+
+color: #FFFFFF;
+
+
+
+/* h1 */
+
+position: absolute;
+width: 288px;
+height: 86px;
+left: 578.95px;
+top: 2790px;
+
+
+
+/* h1 */
+
+position: absolute;
+left: 19.1%;
+right: 19.1%;
+top: 0%;
+bottom: 31.4%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 59px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Component 33 */
+
+position: absolute;
+width: 1354.77px;
+height: 1641.11px;
+left: 45.56px;
+top: 2920px;
+
+
+
+/* Rectangle 31 */
+
+position: absolute;
+left: 0.34%;
+right: 70.12%;
+top: 0%;
+bottom: 53.2%;
+
+background: #252525;
+border-radius: 25px;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+left: 0.34%;
+right: 70.12%;
+top: 0%;
+bottom: 53.2%;
+
+background: #252525;
+border-radius: 25px;
+
+
+/* Rectangle 39 */
+
+position: absolute;
+left: 35.4%;
+right: 35.06%;
+top: 53.2%;
+bottom: 0%;
+
+background: #252525;
+border-radius: 25px;
+
+
+/* Rectangle 40 */
+
+position: absolute;
+left: 70.46%;
+right: 0%;
+top: 53.2%;
+bottom: 0%;
+
+background: #252525;
+border-radius: 25px;
+
+
+/* Rectangle 35 */
+
+position: absolute;
+left: 70.46%;
+right: 0%;
+top: 0%;
+bottom: 53.2%;
+
+background: #252525;
+border-radius: 25px;
+
+
+/* Rectangle 33 */
+
+position: absolute;
+left: 35.4%;
+right: 35.06%;
+top: 0%;
+bottom: 53.2%;
+
+background: #252525;
+border-radius: 25px;
+
+
+/* image 12 */
+
+position: absolute;
+left: 0%;
+right: 70.46%;
+top: 0%;
+bottom: 83.07%;
+
+
+
+/* image 5 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(image.png);
+border-radius: 25px;
+
+
+/* Rectangle 32 */
+
+position: absolute;
+left: 2.7%;
+right: 71.9%;
+top: 15.16%;
+bottom: 54.67%;
+
+background: rgba(21, 21, 21, 0.5);
+border-radius: 25px;
+
+
+/* image 12 */
+
+position: absolute;
+left: 35.4%;
+right: 35.06%;
+top: 0%;
+bottom: 83.07%;
+
+
+
+/* image 6 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(image.png);
+border-radius: 25px;
+
+
+/* Rectangle 34 */
+
+position: absolute;
+left: 38.06%;
+right: 36.55%;
+top: 15.16%;
+bottom: 54.67%;
+
+background: rgba(21, 21, 21, 0.5);
+border-radius: 25px;
+
+
+/* image 12 */
+
+position: absolute;
+left: 70.16%;
+right: 0.3%;
+top: 0%;
+bottom: 83.07%;
+
+
+
+/* image 7 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(image.png);
+border-radius: 25px;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+left: 72.82%;
+right: 1.78%;
+top: 15.16%;
+bottom: 54.67%;
+
+background: rgba(21, 21, 21, 0.5);
+border-radius: 25px;
+
+
+/* Rectangle 38 */
+
+position: absolute;
+left: 0.34%;
+right: 70.12%;
+top: 53.2%;
+bottom: 0%;
+
+background: #252525;
+border-radius: 25px;
+
+
+/* image 12 */
+
+position: absolute;
+left: 0%;
+right: 70.46%;
+top: 53.2%;
+bottom: 29.87%;
+
+
+
+/* image 8 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(image.png);
+border-radius: 25px;
+
+
+/* Rectangle 41 */
+
+position: absolute;
+left: 2.7%;
+right: 71.9%;
+top: 67.42%;
+bottom: 2.41%;
+
+background: rgba(21, 21, 21, 0.5);
+border-radius: 25px;
+
+
+/* image 12 */
+
+position: absolute;
+left: 35.23%;
+right: 35.23%;
+top: 53.2%;
+bottom: 29.87%;
+
+
+
+/* image 9 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(image.png);
+border-radius: 25px;
+
+
+/* Rectangle 43 */
+
+position: absolute;
+left: 37.47%;
+right: 37.13%;
+top: 67.42%;
+bottom: 2.41%;
+
+background: rgba(21, 21, 21, 0.5);
+border-radius: 25px;
+
+
+/* image 12 */
+
+position: absolute;
+left: 70.46%;
+right: 0%;
+top: 53.2%;
+bottom: 29.87%;
+
+
+
+/* image 11 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(image.png);
+border-radius: 25px;
+
+
+/* Rectangle 44 */
+
+position: absolute;
+left: 72.24%;
+right: 2.36%;
+top: 67.42%;
+bottom: 2.41%;
+
+background: rgba(21, 21, 21, 0.5);
+border-radius: 25px;
+
+
+/* Component 35 */
+
+position: absolute;
+width: 206px;
+height: 46px;
+left: 147.23px;
+top: 3174.86px;
+
+
+
+/* Rectangle 16 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0080;
+border-radius: 15px;
+
+
+/* Rectangle 18 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0080;
+border-radius: 15px;
+
+
+/* Rectangle 17 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0080;
+border-radius: 15px;
+
+
+/* Rectangle 19 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0080;
+border-radius: 15px;
+
+
+/* testmlmdkm */
+
+position: absolute;
+left: 23.83%;
+right: 24.71%;
+top: 25.97%;
+bottom: 30.55%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* testmlmdkm */
+
+position: absolute;
+left: 49.56%;
+right: 50.44%;
+top: 30.32%;
+bottom: 32.72%;
+
+
+
+
+/* Component 39 */
+
+position: absolute;
+width: 206px;
+height: 43px;
+left: 146.95px;
+top: 4046px;
+
+
+
+/* Rectangle 16 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0080;
+border-radius: 15px;
+
+
+/* Rectangle 18 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0080;
+border-radius: 15px;
+
+
+/* Rectangle 17 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0080;
+border-radius: 15px;
+
+
+/* Rectangle 19 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0080;
+border-radius: 15px;
+
+
+/* testmlmdkm */
+
+position: absolute;
+left: 15.58%;
+right: 15.98%;
+top: 23.8%;
+bottom: 29.69%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* testmlmdkm */
+
+position: absolute;
+left: 49.56%;
+right: 50.44%;
+top: 28.45%;
+bottom: 32.01%;
+
+
+
+
+/* Component 40 */
+
+position: absolute;
+width: 226px;
+height: 43px;
+left: 609.04px;
+top: 4046px;
+
+
+
+/* Rectangle 16 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0080;
+border-radius: 15px;
+
+
+/* Rectangle 18 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0080;
+border-radius: 15px;
+
+
+/* Rectangle 17 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0080;
+border-radius: 15px;
+
+
+/* Rectangle 19 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0080;
+border-radius: 15px;
+
+
+/* testmlmdkm */
+
+position: absolute;
+left: 4.18%;
+right: 4.23%;
+top: 23.8%;
+bottom: 29.69%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* testmlmdkm */
+
+position: absolute;
+left: 49.75%;
+right: 50.25%;
+top: 28.45%;
+bottom: 32.01%;
+
+
+
+
+/* Component 41 */
+
+position: absolute;
+width: 206px;
+height: 43px;
+left: 1092.95px;
+top: 4046px;
+
+
+
+/* Rectangle 16 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0080;
+border-radius: 15px;
+
+
+/* Rectangle 18 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0080;
+border-radius: 15px;
+
+
+/* Rectangle 17 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0080;
+border-radius: 15px;
+
+
+/* Rectangle 19 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0080;
+border-radius: 15px;
+
+
+/* testmlmdkm */
+
+position: absolute;
+left: 16.06%;
+right: 16.46%;
+top: 23.8%;
+bottom: 29.69%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* testmlmdkm */
+
+position: absolute;
+left: 49.56%;
+right: 50.44%;
+top: 28.45%;
+bottom: 32.01%;
+
+
+
+
+/* Component 36 */
+
+position: absolute;
+width: 206px;
+height: 46px;
+left: 619.95px;
+top: 3175px;
+
+
+
+/* Rectangle 16 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0080;
+border-radius: 15px;
+
+
+/* Rectangle 18 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0080;
+border-radius: 15px;
+
+
+/* Rectangle 17 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0080;
+border-radius: 15px;
+
+
+/* Rectangle 19 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0080;
+border-radius: 15px;
+
+
+/* testmlmdkm */
+
+position: absolute;
+left: 2.96%;
+right: 3.84%;
+top: 25.97%;
+bottom: 30.55%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* testmlmdkm */
+
+position: absolute;
+left: 49.56%;
+right: 50.44%;
+top: 30.32%;
+bottom: 32.72%;
+
+
+
+
+/* Component 37 */
+
+position: absolute;
+width: 206.39px;
+height: 35.5px;
+left: 1097.03px;
+top: 3180.11px;
+
+
+
+/* Rectangle 16 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0080;
+border-radius: 15px;
+
+
+/* Rectangle 18 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0080;
+border-radius: 15px;
+
+
+/* Rectangle 17 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0080;
+border-radius: 15px;
+
+
+/* Rectangle 19 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0080;
+border-radius: 15px;
+
+
+/* testmlmdkm */
+
+position: absolute;
+left: 26.74%;
+right: 26.74%;
+top: 23.8%;
+bottom: 28.31%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* testmlmdkm */
+
+position: absolute;
+left: 26.74%;
+right: 26.74%;
+top: 23.8%;
+bottom: 28.31%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Component 38 */
+
+position: absolute;
+width: 225px;
+height: 46px;
+left: 1087.73px;
+top: 3175px;
+
+
+
+/* Rectangle 16 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0080;
+border-radius: 15px;
+
+
+/* Rectangle 18 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0080;
+border-radius: 15px;
+
+
+/* Rectangle 17 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0080;
+border-radius: 15px;
+
+
+/* Rectangle 19 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0080;
+border-radius: 15px;
+
+
+/* testmlmdkm */
+
+position: absolute;
+left: 4.08%;
+right: 3.92%;
+top: 28.15%;
+bottom: 32.72%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* testmlmdkm */
+
+position: absolute;
+left: 49.85%;
+right: 50.15%;
+top: 30.32%;
+bottom: 32.72%;
+
+
+
+
+/* A Folio project allowing me to showcase my skills and my work to future collaborators. */
+
+position: absolute;
+width: 308.41px;
+height: 402.27px;
+left: 99.87px;
+top: 3240.69px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* A maze to hone my PHP skills. Finding the exit won't be easy! */
+
+position: absolute;
+width: 308.41px;
+height: 402.27px;
+left: 99.95px;
+top: 4094.48px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Develop a RESTful API using Node.js for managing cooking recipes. This API will allow users to create, read, update, and delete cooking recipes. */
+
+position: absolute;
+width: 308.41px;
+height: 402.27px;
+left: 571.02px;
+top: 4094.48px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* An app that everyone will want to use and that will make my fortune ;-) */
+
+position: absolute;
+width: 308.41px;
+height: 402.27px;
+left: 1042.1px;
+top: 4094.48px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* A social networking project to compete with Facebook and others that is starting to get old and also to show off my programming skills. */
+
+position: absolute;
+width: 308.41px;
+height: 402.27px;
+left: 578.95px;
+top: 3240.69px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* A project that allows companies to manage their users in all aspects they may encounter in their professional lives. */
+
+position: absolute;
+width: 308.41px;
+height: 402.27px;
+left: 1058.03px;
+top: 3240.69px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* image 26 */
+
+position: absolute;
+width: 203.55px;
+height: 203.55px;
+left: 621.17px;
+top: 1734.39px;
+
+background: url(image.png);
+
+
+/* image 27 */
+
+position: absolute;
+width: 203.55px;
+height: 203.55px;
+left: 907.78px;
+top: 1862.49px;
+
+background: url(image.png);
+
+
+/* image 28 */
+
+position: absolute;
+width: 203.55px;
+height: 203.55px;
+left: 628.28px;
+top: 2505.03px;
+
+background: url(image.png);
+
+
+/* image 29 */
+
+position: absolute;
+width: 203.55px;
+height: 203.55px;
+left: 1077.12px;
+top: 2127.77px;
+
+background: url(image.png);
+
+
+/* image 30 */
+
+position: absolute;
+width: 203.55px;
+height: 203.55px;
+left: 348.78px;
+top: 1862.49px;
+
+background: url(image.png);
+
+
+/* image 31 */
+
+position: absolute;
+width: 203.55px;
+height: 203.55px;
+left: 165.22px;
+top: 2127.77px;
+
+background: url(image.png);
+
+
+/* image 32 */
+
+position: absolute;
+width: 203.55px;
+height: 203.55px;
+left: 907.78px;
+top: 2331.32px;
+
+background: url(image.png);
+
+
+/* image 33 */
+
+position: absolute;
+width: 203.55px;
+height: 203.55px;
+left: 348.78px;
+top: 2331.32px;
+
+background: url(image.png);
+
+
+/* : insomnik@gmail.com : insomnik marco : @insomnik13 */
+
+position: absolute;
+width: 596.92px;
+height: 242.79px;
+left: 378px;
+top: 4649.41px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Vos commentaires : */
+
+position: absolute;
+width: 488.75px;
+height: 41.05px;
+left: 471.41px;
+top: 5114.91px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 68 */
+
+position: absolute;
+width: 504.39px;
+height: 218.96px;
+left: 467.8px;
+top: 5155.96px;
+
+background: #D9D9D9;
+border-radius: 25px;
+
+
+/* Rectangle 69 */
+
+position: absolute;
+width: 67.48px;
+height: 67.48px;
+left: 474px;
+top: 4796.55px;
+
+background: #FF0080;
+
+
+/* Component 72 */
+
+position: absolute;
+width: 67.48px;
+height: 67.48px;
+left: 476.4px;
+top: 4715.09px;
+
+
+
+/* Rectangle 57 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0080;
+
+
+/* image 63 */
+
+position: absolute;
+height: 67.48px;
+left: 0%;
+right: 0%;
+top: 0px;
+
+background: url(image.png);
+border-radius: 10px;
+
+
+/* Rectangle 70 */
+
+position: absolute;
+width: 389.29px;
+height: 42.73px;
+left: 522.75px;
+top: 5064.08px;
+
+background: #D9D9D9;
+border-radius: 20px;
+
+
+/* Rectangle 71 */
+
+position: absolute;
+width: 389.29px;
+height: 42.73px;
+left: 522.75px;
+top: 4959.08px;
+
+background: #D9D9D9;
+border-radius: 20px;
+
+
+/* Nom : */
+
+position: absolute;
+width: 247.41px;
+height: 33.91px;
+left: 592.08px;
+top: 4910.16px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Votre mail : */
+
+position: absolute;
+width: 205.95px;
+height: 26.37px;
+left: 614.42px;
+top: 5019.76px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* moi future 3 */
+
+position: absolute;
+width: 70.16px;
+height: 70.16px;
+left: 9.15px;
+top: 5.87px;
+
+background: url(moi future.png);
+border-radius: 450.95px;

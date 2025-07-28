@@ -1,0 +1,240 @@
+body {
+
+    width: 1440px;
+    overflow-y: scroll;
+    background: linear-gradient(180deg, #101010 0%, #373636 50%, #101010 100%);
+    color: white;
+    font-family: 'Montserrat';
+
+}
+
+
+
+header {
+
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+    padding: 20px;
+    justify-content: space-around;
+    margin: auto;
+    background-origin: content-box, padding-box;
+    background-repeat: no-repeat;
+
+    position: sticky;
+
+    a {
+        display: flex;
+        text-decoration: none;
+        color: white;
+        margin: 50px;
+    }
+
+    a :hover {
+        text-decoration: none;
+        background-color: rgb(230, 25, 230);
+        background-repeat: no-repeat;
+        transform: scale(20);
+
+
+    }
+
+    #navheader {
+
+        display: flex;
+        flex-direction: row;
+        text-decoration: none;
+        list-style-type: none;
+
+
+    }
+
+
+}
+
+
+
+#presentation {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(../images/ciel-etoile.jpg);
+    width: 100%;
+    background-origin: content-box, padding-box;
+    background-repeat: no-repeat;
+    background-attachment: local scroll;
+
+    .present {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background: rgba(21, 21, 21, 0.5);
+        padding: 50px;
+        margin: 20px;
+        border-radius: 25px;
+
+        h1 {
+            font-size: 32px;
+            font-style: bold;
+        }
+
+        p {
+            font-size: 24px;
+            font-weight: 700;
+
+            font-style: bold;
+
+        }
+    }
+}
+
+#universe {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    background-image: url(../images/galaxy.png);
+    height: 903.68px;
+    width: 1440px;
+    background-origin: content-box, padding-box;
+    background-repeat: no-repeat;
+    background-attachment: local scroll;
+    background-size: 100% 100%;
+
+    h1 {
+        padding-top: 720px;
+        font-size: 48px;
+
+    }
+
+}
+
+#learn {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 1379.75px;
+    position: relative;
+
+
+    h1 {
+        top: 2%;
+        left: 50%;
+        bottom: 98%;
+    }
+
+    .me {
+        width: 310.68px;
+        height: 466.01px;
+        position: absolute;
+        top: 58%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .tech {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+
+        img {
+            position: absolute;
+            width: 203.55px;
+            height: 203.55px;
+            left: 50%;
+            top: 0;
+            transform: translateX(-50%) rotate(var(--angle-parent)) translateY(-450px) rotate(calc(-1 * var(--angle-parent)));
+        }
+
+        img:hover {
+            transform: scale(1.3) translateX(50%) rotate(var(--angle-parent)) translateY(450px) rotate(calc(1 * var(--angle-parent)));
+
+        }
+    }
+
+    .tech .tech1 {
+        --angle-parent: 0deg;
+    }
+
+    .tech2 {
+        --angle-parent: 45deg;
+    }
+
+    .tech3 {
+        --angle-parent: 90deg;
+    }
+
+    .tech4 {
+        --angle-parent: 135deg;
+    }
+
+    .tech5 {
+        --angle-parent: 180deg;
+    }
+
+    .tech6 {
+        --angle-parent: 225deg;
+    }
+
+    .tech7 {
+        --angle-parent: 270deg;
+    }
+
+    .tech8 {
+        --angle-parent: 315deg;
+    }
+
+}
+
+
+
+
+
+
+
+footer {
+
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+    padding: 20px;
+    justify-content: space-around;
+    margin: auto;
+    background-origin: content-box, padding-box;
+    background-repeat: no-repeat;
+
+    position: sticky;
+
+    a {
+        display: flex;
+        text-decoration: none;
+        color: white;
+        margin: 50px;
+    }
+
+    a :hover {
+        text-decoration: none;
+        background-color: rgb(230, 25, 230);
+        background-repeat: no-repeat;
+        transform: scale(20);
+
+
+    }
+
+    #navheader {
+
+        display: flex;
+        flex-direction: row;
+        text-decoration: none;
+        list-style-type: none;
+
+
+    }
+
+}
