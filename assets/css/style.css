@@ -795,6 +795,14 @@ footer {
         display: flex;
         flex-direction: column;
         align-items: center;
+        margin-left: 1%;
+        margin-right: 1%;
+
+        .pcontainer {
+
+            width: 768px;
+
+        }
 
         .container {
             align-items: center;
@@ -810,6 +818,14 @@ footer {
         display: flex;
         flex-direction: column;
         align-items: center;
+        margin-left: 1%;
+        margin-right: 1%;
+
+        .pcontainer {
+
+            width: 768px;
+
+        }
 
         .container {
             align-items: center;
@@ -819,6 +835,7 @@ footer {
             }
         }
     }
+
     #learn {
 
         margin-bottom: -200px;
@@ -975,9 +992,12 @@ footer {
         display: flex;
         flex-direction: column;
         align-items: center;
+        margin-left: 1%;
+        margin-right: 1%;
 
         .container {
             align-items: center;
+            width: 80%;
 
             nav {
                 margin-left: -20%;
@@ -990,6 +1010,8 @@ footer {
         display: flex;
         flex-direction: column;
         align-items: center;
+        margin-left: 1%;
+        margin-right: 1%;
 
         .container {
             align-items: center;
