@@ -426,8 +426,8 @@ header {
 
         display: flex;
         flex-direction: column;
-        width: 30%;
-        height: 40%;
+        width: 60%;
+        height: 750px;
         align-items: center;
         justify-content: center;
         background: rgba(21, 21, 21, 0.5);
@@ -800,7 +800,8 @@ footer {
 
         .pcontainer {
 
-            width: 768px;
+            width: 90%;
+            height: 750px;
 
         }
 
@@ -823,7 +824,8 @@ footer {
 
         .pcontainer {
 
-            width: 768px;
+            width: 90%;
+            height: 750px;
 
         }
 
@@ -995,12 +997,25 @@ footer {
         margin-left: 1%;
         margin-right: 1%;
 
+        .pcontainer {
+
+            width: 90%;
+            height: 750px;
+
+        }
+
         .container {
             align-items: center;
             width: 80%;
 
             nav {
                 margin-left: -20%;
+            }
+
+            img {
+                width: 16.67px;
+                height: 16.67px;
+                margin: 15px;
             }
         }
 
@@ -1012,6 +1027,14 @@ footer {
         align-items: center;
         margin-left: 1%;
         margin-right: 1%;
+        
+
+        .pcontainer {
+
+            width: 90%;
+            height: 750px;
+
+        }
 
         .container {
             align-items: center;
@@ -1019,38 +1042,44 @@ footer {
             nav {
                 margin-left: -20%;
             }
+
+            img {
+                width: 16.67px;
+                height: 16.67px;
+                margin: 15px;
+            }
         }
     }
+}
 
-    #fullContact {
+#fullContact {
 
+    flex-direction: column;
+}
+
+footer {
+    flex-direction: column-reverse;
+    align-items: center;
+    padding: 0px;
+    justify-content: center;
+    justify-items: center;
+    width: auto;
+
+    h2 {
+        padding-right: 0px;
+    }
+
+    #navheader {
         flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
 
-    footer {
+    a {
+        margin: 20px;
+    }
+
+    .heading {
         flex-direction: column-reverse;
-        align-items: center;
-        padding: 0px;
-        justify-content: center;
-        justify-items: center;
-        width: auto;
-
-        h2 {
-            padding-right: 0px;
-        }
-
-        #navheader {
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-        }
-
-        a {
-            margin: 20px;
-        }
-
-        .heading {
-            flex-direction: column-reverse;
-        }
     }
 }

@@ -75,8 +75,9 @@ particlesJS("particles-js", {
     },
     "retina_detect": true
 });
-let count_particles, stats, update;
-stats = new Stats; stats.setMode(0);
+let count_particles ="";
+let stats = "";
+let update = "";
 stats.domElement.style.position = 'relative';
 stats.domElement.style.left = '0px';
 stats.domElement.style.top = '0px';
